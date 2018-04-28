@@ -1,5 +1,12 @@
 # ColoredLight
 
+### Idea
+* Music -> Water
+
+   1. 
+* Color -> Light
+
+   1. 
 
 ### Issue
 1. Camera --> Lights --> Camera
