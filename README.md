@@ -15,3 +15,5 @@
 - [ ] Available hardware
 - [ ] Environment setup (Issue 1)
 
+### Hardware
+* 
