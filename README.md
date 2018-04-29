@@ -14,6 +14,8 @@
 ### Need to know
 - [ ] Available hardware
 - [ ] Environment setup (Issue 1)
+- [ ] Time
+- [ ] $
 
 ### Hardware
 * 
